@@ -3,7 +3,7 @@
 
 <p>
  <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjpalmer" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rjpalmer" align="right" />
 </a>
 Hello, My name is Robert. I am a software enthusiast based in Brooklyn, New York. I have my Bachelor's in Computer Science and a Master's Degree in Information System Tools. You'll find alot of Unity projects along with some personal projects I worked on in my spare time. 
   </p>
